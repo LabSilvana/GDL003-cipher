@@ -1,0 +1,29 @@
+h1{
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  color: #bf9fee;
+}
+
+#informacion{
+  text-align: center;
+  font-family: 'Bree Serif', serif;
+  color: #f2c0ff;
+}
+
+.boton{
+  background-color: #ffd7e8;
+  font-size: 21px;
+  text-align: center;
+  border-radius: 21px;
+  font-family: 'Courgette', cursive;
+}
+
+#opciones{
+  text-align: center;
+  font-family: 'Bree Serif', serif;
+  color: #bf9fee;
+}
+
+#seleccion{
+  text-align: center;
+}
