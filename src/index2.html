@@ -14,14 +14,19 @@
     <p id="opciones">Este es un espacio para escribir un mensaje secreto a esa persona especial</p>
         <div id="seleccion">
           <img src="http://www.qqpr.com/ascii/img/ascii-1055.gif"><br>
-          <a href="index.html"><input type="button" class="boton" value="Inicio"></a>
+          <p id="text_desplazamiento">desplazamiento</p>
+          <input type="number" id="desplazamiento"><br>
           <input type="text" id="mensaje_codificado">
           <button id="Codificar" class="boton">Codificar</button>
           <input type="text" id="mensaje_decodificado">
-          <button id="Decodificar" class="boton" onclick="decipher()">Decodificar</button>
+          <button id="Decodificar" class="boton">Decodificar</button>
         </div>
+        <a href="index.html"><input type="button" class="boton" value="Inicio"></a>
         <div class="">
           <p id="resultado"></p>
+        </div>
+        <div class="">
+          <p id="resultados"></p>
         </div>
         <script src="cipher.js"></script>
         <script src="index.js"></script>

@@ -1,17 +1,17 @@
 h1{
   text-align: center;
   font-family: 'Lobster', cursive;
-  color: #bf9fee;
+  color: #ffc6be;
 }
 
 #informacion{
   text-align: center;
   font-family: 'Bree Serif', serif;
-  color: #f2c0ff;
+  color: #ffa1c5;
 }
 
 .boton{
-  background-color: #ffd7e8;
+  background-color: #a773c3;
   font-size: 21px;
   text-align: center;
   border-radius: 30px;
@@ -21,9 +21,29 @@ h1{
 #opciones{
   text-align: center;
   font-family: 'Gabriela', serif;
-  color: #bf9fee;
+  color: #854777;
 }
 
 #seleccion{
   text-align: center;
+}
+
+img{
+  border: 5px dashed blueviolet;
+}
+
+#resultado{
+  text-align: center;
+  font-size: 25px;
+  color: #854777;
+}
+
+#resultados{
+  text-align: center;
+  font-size: 25px;
+  color: #854777;
+}
+
+#desplazamiento{
+  margin-bottom: 21px;
 }
