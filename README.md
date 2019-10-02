@@ -21,8 +21,8 @@ nos enviara a la pagina donde podremos elegir si queremos codificar o decodifica
 el numero de desplazamiento. 
 
 Al codificar un mensaje es importante recordar el numero de desplazamiendo seleccionado ya que es necesario 
-informar a la persona que va a recibir este mensaje este numero para que el pueda decodificar el mensaje con el mismo numero 
-de desplazamiento y pueda ser decodificado correctamente. 
+informar a la persona que va a recibir este mensaje este numero para que el pueda decodificar el mensaje con 
+el mismo numero de desplazamiento y pueda ser decodificado correctamente. 
 
 
 
